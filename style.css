@@ -9,4 +9,9 @@
 
 section {
   padding-top: 5rem;
+
+}
+
+html {
+  cursor: url("Raiden\ Normal\ Select.cur"), auto;
 }
